@@ -13,6 +13,9 @@ This is an exercise that addresses Absenteeism at a company during work time. Mo
 ## Credit Card Fraud Detection
 A machine learning model that recognizes fraudulent credit card transactions, using TensorFlow framework. The main idea is that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 
+## Image Classification - Deep Neural Network
+An image classification algorithm, designed to tell if an image contains a human figure or a horse.
+
 ## Linear Regression Practice
 #### Car Sales Exercise
 A practical example made with 365 Data Science Bootcamp, that predicts the price of a used car depending on its specifications.
