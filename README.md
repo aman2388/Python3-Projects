@@ -10,6 +10,10 @@ The dataset sources I used for practice purposes were Kaggle and UCI Machine Lea
 
 This is an exercise that addresses Absenteeism at a company during work time. More precisely, it shows whether or not an employee can be expected to be missing for a specific number of hours in a given work day. This exercise involves preprocessing the raw data, create a Logistic Regression model, deploy the model through a module and analyse the predicted outputs in Tableau.
 
+## Classification Business Case Exercise
+
+The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit. I have used many classification models on this dataset to see which model performs the best.
+
 ## Credit Card Fraud Detection
 A machine learning model that recognizes fraudulent credit card transactions, using TensorFlow framework. The main idea is that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 
